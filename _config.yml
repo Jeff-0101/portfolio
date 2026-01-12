@@ -1,0 +1,6 @@
+title: 高中程式設計作品集
+theme: jekyll-theme-cayman # 選擇一個漂亮的主題
+
+# 讓 Jekyll 包含子模組內的資料夾
+include:
+  - _projects
