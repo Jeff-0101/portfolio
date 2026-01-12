@@ -1,6 +1,13 @@
-title: 高中程式設計作品集
-theme: jekyll-theme-cayman # 選擇一個漂亮的主題
+title: Jeff 的高中程式設計作品集
+description: 記錄高中階段的程式設計學習成果與專題報告
+baseurl: "" # 如果你的網站是 https://username.github.io，這裡留空
+url: "https://Jeff-0101.github.io" # 替換成你的實際網址
 
-# 讓 Jekyll 包含子模組內的資料夾
-include:
-  - _projects
+# 導覽列設定 (這裡只是一個範例，可以自定義)
+header_pages:
+  - index.md
+  - reports.md
+  - about.md
+
+# Jekyll Theme (你可以選擇其他主題，例如 "minima")
+theme: jekyll-theme-architect
