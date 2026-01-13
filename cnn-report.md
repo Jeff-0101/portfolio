@@ -8,7 +8,7 @@ title: CNN 專題報告
 #### 二己44 蔡旻希
 ---
 # 一、主題：
-## $\color{red}{\text{實際運行分析Teachable Machine與SqueezeNet圖像辨識差異}}$
+<span style="color:red; font-weight:bold;">實際運行分析 Teachable Machine 與 SqueezeNet 圖像辨識差異</span>
 ## Teachable Machine介紹：
  Teachable Machine 是一個由Google於2007年推出的深度學習影像分類訓練工具，能夠讓使用者進行簡單的步驟即可訓練出自己的一套模型，能夠辨識影像、聲音與姿勢。其簡化操作與支援多分類轉換適合新手輕鬆學習上手深度學習的使用。
 ## SqueezeNet介紹：
