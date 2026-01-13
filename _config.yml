@@ -11,3 +11,8 @@ header_pages:
 
 # Jekyll Theme (你可以選擇其他主題，例如 "minima")
 theme: jekyll-theme-architect
+
+
+# 讓 GitHub 讀取子模組資料夾
+include:
+  - _projects
