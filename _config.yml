@@ -1,18 +1,22 @@
-title: Jeff 的高中程式設計作品集
-description: 記錄高中階段的程式設計學習成果與專題報告
-baseurl: "" # 如果你的網站是 https://username.github.io，這裡留空
-url: "https://Jeff-0101.github.io" # 替換成你的實際網址
+---
+layout: default
+title: 首頁
+---
 
-# 導覽列設定 (這裡只是一個範例，可以自定義)
-header_pages:
-  - index.md
-  - reports.md
-  - about.md
+# 歡迎來到 Jeff 的程式設計作品集
 
-# Jekyll Theme (你可以選擇其他主題，例如 "minima")
-theme: jekyll-theme-architect
+你好！我是 Jeff，這是我在高中階段所學習與實作的各項程式設計專題與報告。
 
+## 探索我的學習成果：
 
-# 讓 GitHub 讀取子模組資料夾
-include:
-  - _projects
+* [查看所有報告](./reports)
+* [關於我](./about)
+
+---
+
+## 最新專案速覽
+
+### 卷積神經網路 (CNN) 影像辨識專題
+這是一個關於深度學習影像辨識的專題，我學習了 CNN 的原理並實作了一個模型。
+
+[前往 CNN 報告頁面](./cnn-report)
