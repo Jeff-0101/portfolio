@@ -1,18 +1,22 @@
 ---
 layout: default
-title: 我的程式設計作品集
+title: 首頁
 ---
 
-# 歡迎來到 Jeff 的學習成果展示
+# 歡迎來到 Jeff 的程式設計作品集
 
-這裡整合了我高中時期的程式設計專題報告。
+你好！我是 Jeff，這是我在高中階段所學習與實作的各項程式設計專題與報告。
 
-## 核心專案展示
+## 探索我的學習成果：
 
-### 1. 卷積神經網路 (CNN) 影像辨識
-* **專案簡介**：學習深度學習原理，並使用 TensorFlow 實作手寫數字辨識。
-* **查看報告**：[點此閱讀完整 Project.md 報告](https://github.com/Jeff-0101/cnnProject/blob/main/Project.md)
-* **原始碼**：[前往 GitHub 倉庫](https://github.com/Jeff-0101/cnnProject)
+* [查看所有報告](./reports)
+* [關於我](./about)
 
 ---
-[關於我](about.md) | [聯絡我](mailto:你的Email)
+
+## 最新專案速覽
+
+### 卷積神經網路 (CNN) 影像辨識專題
+這是一個關於深度學習影像辨識的專題，我學習了 CNN 的原理並實作了一個模型。
+
+[前往 CNN 報告頁面](./cnn-report)
