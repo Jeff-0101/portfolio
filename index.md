@@ -19,4 +19,4 @@ title: 首頁
 ### 卷積神經網路 (CNN) 影像辨識專題
 這是一個關於深度學習影像辨識的專題，我學習了 CNN 的原理並實作了一個模型。
 
-[前往 CNN 報告頁面](./cnn-report)
+[前往 CNN 報告頁面](https://github.com/Jeff-0101/cnnProject/blob/main/Project.md)
