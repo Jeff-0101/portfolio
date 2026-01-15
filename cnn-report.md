@@ -8,7 +8,7 @@ title: CNN 專題報告
 #### 二己44 蔡旻希
 ---
 # 一、主題：
-<span style="color:red; font-weight:bold;">實際運行分析 Teachable Machine 與 SqueezeNet 圖像辨識差異</span>
+實際運行分析 Teachable Machine 與 SqueezeNet 圖像辨識差異
 ## Teachable Machine介紹：
  Teachable Machine 是一個由Google於2007年推出的深度學習影像分類訓練工具，能夠讓使用者進行簡單的步驟即可訓練出自己的一套模型，能夠辨識影像、聲音與姿勢。其簡化操作與支援多分類轉換適合新手輕鬆學習上手深度學習的使用。
 ## SqueezeNet介紹：
@@ -19,7 +19,7 @@ title: CNN 專題報告
   $\color{red}{\text{jpg/jpeg/png的原始資料三組各六十四張}}$
 。在cat此類圖片的選擇上，除了貓的正面照外，我也選了幾張能涵蓋到貓的身體的圖片，或是它們的側面圖。bas類的話除了選擇最常見的橘色籃球之外，也選擇了其他顏色的籃球，讓後續訓練出的模型不會只局限於橘色球的選擇。pin類則將鳳梨的切片圖片也選擇，讓模型能夠判斷除了鳳梨的外觀更包還其內的顏色或切片後的型態，這樣在選擇包含有切片的圖做為測試時能夠更精準的判斷。
 
-| <img width="597" height="230" alt="image" src="https://github.com/user-attachments/assets/3a5fc35b-cb04-44db-a25d-17710db43de3" /> |
+| <p align="center"><img src="<img width="597" height="230" alt="image" src="https://github.com/user-attachments/assets/3a5fc35b-cb04-44db-a25d-17710db43de3" />" width="80%"></p> |
 | :--- |
 | ▲資料分成 bas、cat、與 pin 三類 |
 
